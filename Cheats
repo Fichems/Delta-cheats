@@ -36,7 +36,7 @@ Autobounty: getgenv().Setting = {
         }
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzWindy01/WindyXBypass/main/BountyLoadder.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fichems/Delta-cheats/refs/heads/main/Auto%20bounty%20for%20Blox%20Fruits(in%20main%20file)"))()
 
 Alchemy: loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
 

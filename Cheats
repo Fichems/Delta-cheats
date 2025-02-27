@@ -1,4 +1,4 @@
-Autobounty: loadstring(game:HttpGet("https://raw.githubusercontent.com/Fichems/Delta-cheats/refs/heads/main/Auto%20bounty%20for%20Blox%20Fruits(in%20main%20file)"))()
+Autobounty: loadstring(game:HttpGet("https://raw.githubusercontent.com/Fichems/Delta-cheats/refs/heads/main/BF%20Bounty"))()
 
 Alchemy: loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
 

@@ -41,3 +41,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzWindy01/WindyXBypa
 Alchemy: loadstring(game:HttpGet("https://scripts.alchemyhub.xyz"))()
 
 Godhub: loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))()
+
+Speed Hub X: loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()

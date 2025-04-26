@@ -8,7 +8,7 @@ Speed Hub X: loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99
 
 Simple Script (Blox Fruits): getgenv().simple_settings = {
     ["MASTERY"] = { -- Settings related to leveling up weapon or skill mastery
-        ["ACTIVE"] = true, -- Enable or disable mastery leveling (true = enabled, false = disabled)
+        ["ACTIVE"] = false, -- Enable or disable mastery leveling (true = enabled, false = disabled)
         ["METHOD"] = "Half", -- Method for gaining mastery, "Half"[350] or "Full"[600]
     },
 
